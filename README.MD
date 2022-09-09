@@ -78,7 +78,7 @@ if __name__ == '__main__':
                 'id': ..., 'display_name': ...,
                 # More fields can be configured via the (product.product)._explode_product_uom method
             },
-            'qty': 0
+            'qty': ...
         }]
     },
 }
